@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../fondo/round.png);
+}
+
+header{
+    background-color: rgb(100, 149, 237);
+    color: rgb(7, 252, 252);
+    text-align: center;
+}
+
+.titulosuperior{
+    background-color: #0a33ed;
+    padding: 10%;
+    letter-spacing: 5px;
+}
+
+.titulocentro{
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 40px;
+    margin: 26px;
+    word-spacing: 8px;
+    letter-spacing: 5px;
+}
+
+.tituloinferior{
+    font-size: 20px;
+    background-color: #0db7f7;
+    color: #fff;
+    text-align: right;
+    padding: 10px;
+}
+
+section{
+    width: 80%;
+    background-color: #eaeded;
+    color: rgb(128, 128, 128);
+    text-align: justify;
+    padding-bottom: 20px;
+    margin: 25px auto;
+}
+
+section h2{
+    background-color: #0db7f7;
+    color: #fff;
+    padding: 10px 10px;
+}
+
+section ul{
+    margin-left: 70px;
+}
+
+section p{
+    padding: 0px 20px;
+    margin: 16px 0;
+}
+
+article{
+    margin: 20px;
+    text-align: center;
+}
+
+article img{
+    width: 60%;
+    height: 50%;
+    box-shadow: 15px 15px 20px gray;
+}
+
+footer{ 
+    background-color: #0db7f7;
+    color: #fff;
+    text-align: center;
+ }
+ 
+ footer h4{
+     padding: 20px 0px;
+     letter-spacing: 5px;
+ }
